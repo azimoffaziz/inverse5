@@ -1,0 +1,1 @@
+web: gunicorn inverse5.wsgi --log-file -
